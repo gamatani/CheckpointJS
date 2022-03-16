@@ -26,11 +26,11 @@ function microondas (comida,tempo){
         }
 
 }
-
-microondas("pipoca", 21);
+//Teste apontando comida e tempo 
+microondas("pipoca", 9);
 microondas("pipoca", 11);
+microondas("pipoca", 21);
 microondas("pipoca", 50);
-microondas("pipoca", 8);
 microondas("massa", 23);
 
 
